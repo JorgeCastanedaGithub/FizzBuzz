@@ -1,0 +1,16 @@
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.exe
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.deps.json
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.json
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.runtimeconfig.dev.json
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.dll
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\bin\Debug\net5.0\ref\FizzBuzz.dll
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\bin\Debug\net5.0\FizzBuzz.pdb
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.dll
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\ref\FizzBuzz.dll
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.pdb
+C:\Users\jorge\Documents\Visual Studio 2019\Projects\FizzBuzz\FizzBuzz\obj\Debug\net5.0\FizzBuzz.genruntimeconfig.cache

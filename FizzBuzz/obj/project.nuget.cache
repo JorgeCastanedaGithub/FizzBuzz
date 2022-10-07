@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DS6i8c/QfXqU3RKSUslOs/xP88vkkf1+t/TWqJtiJkjSSiFr/Ndxb5iQOgTUirBozBeRHnVBxbXofJYJ4HYNbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\Documents\\Visual Studio 2019\\Projects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
